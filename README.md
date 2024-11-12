@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### [My page](https://inkochetkov.github.io/)
+
+### Additional information
+My little experiment with creating a cross-platform app on react native.
+
+The essence is psychological tests.
+
+[Android](https://www.rustore.ru/catalog/app/apkBuildConfig.APPLICATION_ID)
+[IOS](https://apps.apple.com/ru/app/psychological-tests/id6736991964?platform=iphone)
+
+
 <!--
 **inkochetkov/inkochetkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
