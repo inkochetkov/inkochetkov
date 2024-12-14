@@ -3,12 +3,18 @@
 ### [My page](https://inkochetkov.github.io/)
 
 ### Additional information
-My little experiment with creating a cross-platform app on react native.
 
-The essence is psychological tests.
 
-[Android](https://www.rustore.ru/catalog/app/apkBuildConfig.APPLICATION_ID)
-[IOS](https://apps.apple.com/ru/app/psychological-tests/id6736991964?platform=iphone)
+My projects in mobile app development
+
+|	Name project | Stac |	Platform  | Link |
+|	:---: 	|	:---: |	:---: 	|	 :---:   |
+| psychological tests | React Native | IOS | [App store](https://apps.apple.com/ru/app/psychological-tests/id6736991964?platform=iphone) |
+|  | | Android | [RuStore](https://www.rustore.ru/catalog/app/apkBuildConfig.APPLICATION_ID) |
+| game  bubble-tap | React Native | IOS | [App store](https://www.rustore.ru/catalog/app/com.mut.e.bubble_tap) |
+|    |  | Android | [RuStore](https://apps.apple.com/ru/app/bubble-tap/id6739352305) |
+
+
 
 
 <!--
