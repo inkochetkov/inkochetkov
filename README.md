@@ -4,7 +4,7 @@
 
 ## Additional information
 
-### My projects in mobile app development](https://app.ikochetkov.ru/)
+### [My projects in mobile app development](https://app.ikochetkov.ru/)
 
 
 <!--
